@@ -1,0 +1,17 @@
+{
+  "projectId": "72319472",
+  "functions": {
+    "create-checkout": {
+      "hasChanged": false,
+      "hash": "9fb7047979aa1d21048d3aae3a81bdc475a0ae606509fedcf42502713f3cfada"
+    },
+    "fetch-url": {
+      "hasChanged": false,
+      "hash": "1eca41aa1062dd2c3267ba7f4fdaee191735eb1bd046965526e54d6244fdb7ed"
+    },
+    "payment-webhook": {
+      "hasChanged": false,
+      "hash": "24f1d907b0df62314880713a144a5c158d45dc60f26645a57de66e80d1ceae17"
+    }
+  }
+}
